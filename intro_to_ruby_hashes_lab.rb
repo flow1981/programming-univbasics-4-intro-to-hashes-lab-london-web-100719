@@ -17,7 +17,3 @@ end
 def my_hash_creator(key,value)
   new_hash={key => value}
 end
-
-def my_hash_creator(hash,key)
-  value=hash[key]
-end
