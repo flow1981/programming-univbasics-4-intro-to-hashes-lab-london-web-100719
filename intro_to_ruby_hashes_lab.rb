@@ -9,3 +9,7 @@ end
 def pioneer
   new_hash={:name => "Grace Hopper"}
 end
+
+def pioneer
+  new_hash={:id => 1234}
+end
