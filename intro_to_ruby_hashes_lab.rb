@@ -10,6 +10,6 @@ def pioneer
   new_hash={:name => "Grace Hopper"}
 end
 
-def pioneer
+def id_generator
   new_hash={:id => 1234}
 end
