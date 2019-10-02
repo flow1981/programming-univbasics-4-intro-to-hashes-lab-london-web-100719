@@ -14,6 +14,10 @@ def id_generator
   new_hash={:id => 1234}
 end
 
+def my_hash_creator(key,value)
+  hash={key => value}
+end
+
 def my_hash_creator(hash,key)
   value=hash[key]
 end
